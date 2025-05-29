@@ -1,7 +1,7 @@
 -- Define the module
 local M = {}
 
-local log = require("wswrite").log
+--local log = require("wswrite").log
 -- local function log(msg)
 -- 	wswrite("dynkey", msg)
 -- end
